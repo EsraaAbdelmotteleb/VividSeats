@@ -4,7 +4,7 @@
     "middleLabel": "ASU Gammage - Tempe, AZ",
     "bottomLabel": "Fri, May 19 - Sun, May 28",
     "eventCount": 13,
-    "image": "https://a.vsstatic.com/mobile/app/theater/book-of-mormon.jpg
+    "image": "https://a.vsstatic.com/mobile/app/theater/book-of-mormon.jpg",
     "targetId": 25373,
     "targetType": "PERFORMER",
     "entityId": 25373,
@@ -14,6 +14,8 @@
 }, {
     "topLabel": "Finding Neverland",
     "middleLabel": "Fabulous Fox Theatre - Atlanta - Atlanta, GA",
+      "image": "https://a.vsstatic.com/mobile/app/theater/book-of-mormon.jpg",
+
     "bottomLabel": "Fri, May 19 - Sun, May 21",
     "eventCount": 5,
     "targetId": 26058,
